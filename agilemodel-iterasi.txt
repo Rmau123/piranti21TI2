@@ -5,3 +5,7 @@ maentenence
 customer input
 system requirement
 hardware
+software
+abc
+minum
+tidur 
