@@ -7,5 +7,5 @@ system requirement
 hardware
 software
 abc
-cde
-def
+minum
+tidur 
