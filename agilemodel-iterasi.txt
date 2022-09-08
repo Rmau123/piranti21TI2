@@ -6,6 +6,6 @@ customer input
 system requirement
 hardware
 software
-makan
-minum 
-tidur
+abc
+minum
+tidur 
